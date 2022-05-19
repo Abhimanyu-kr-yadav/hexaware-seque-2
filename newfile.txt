@@ -1,0 +1,14 @@
+this is the content added using cat command
+to create the file and add content
+hello
+hai
+how are you
+all the best!:wq
+This is abhimanyu
+Hi this is abhimanyu Kumar and 
+I am doing Hexaware training
+Welcome to vi editor 
+Press i to insert mode
+write your content
+Press escape and :wq
+to save and exit the vi editor
